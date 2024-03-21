@@ -17,7 +17,7 @@
 
 //system setup
 SYSTEM_MODE(AUTOMATIC);
-SYSTEM_THREAD(ENABLED);
+//SYSTEM_THREAD(ENABLED);
 
 //constants
 const int PINPUMP = D16;
